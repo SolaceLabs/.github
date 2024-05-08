@@ -9,7 +9,7 @@
 
 </div>
 
-## Welcome to the Solace Labs Github Organization! 
+## Welcome to the SolaceLabs Github Organization! 
 
 SolaceLabs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace PubSub+ products.
 
