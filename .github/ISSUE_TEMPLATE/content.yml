@@ -3,17 +3,18 @@ name: Content Submission
 description: Let us know what content you want to create
 title: "[Content]: "
 labels: ["content"]
+projects: "SolaceLabs/5"
 body:
   - type: checkboxes
     id: content_type
     attributes:
       label: "Which type(s) of content do you plan on submitting"
       options:
-        - label: "Code Repository"
-        - label: "Video"
-        - label: "Blog"
-        - label: "Codelab"
-        - label: "Community Post"
+        - label: "code repository"
+        - label: "video"
+        - label: "blog"
+        - label: "codelab"
+        - label: "community post"
   - type: textarea
     id: description
     attributes:
