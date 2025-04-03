@@ -1,0 +1,30 @@
+---
+name: Content Submission
+description: Let us know what content you want to create
+title: "[Content]: "
+labels: ["content"]
+body:
+  - type: checkboxes
+    id: content_type
+    attributes:
+      label: "Which type(s) of content do you plan on submitting"
+      options:
+        - label: "Code Repository"
+        - label: "Video"
+        - label: "Blog"
+        - label: "Codelab"
+        - label: "Community Post"
+- type: textarea
+    id: description
+    attributes:
+      label: Content Description
+      description: A description of the content you are submitting.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Extra Information
+      description: Anything else we should know?
+    validations:
+      required: false
