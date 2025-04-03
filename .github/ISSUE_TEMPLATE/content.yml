@@ -19,10 +19,11 @@ body:
       description: A description of the content you are submitting.
     validations:
       required: true
-      
- - type: markdown
-  attributes:
-    value: "## Thanks for taking the time to contribute content!"
+
+  - type: markdown
+    attributes:
+      value: "## Thanks for taking the time to contribute content!"
+
   - type: markdown
     attributes:
       value: |
@@ -32,7 +33,7 @@ body:
         - Code Repository
         - Community Post
         - Video
-        ** Do NOT remove the `content` label please **
+        **Do NOT remove the `content` label please.**
 
   - type: textarea
     id: extra_info
