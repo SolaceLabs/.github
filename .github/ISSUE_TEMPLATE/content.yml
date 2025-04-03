@@ -8,7 +8,8 @@ body:
   - type: checkboxes
     id: content_type
     attributes:
-      label: "Which type(s) of content do you plan on submitting"
+      label: "Which type(s) of content are you submitting?"
+      description: "Select all that apply. These will be added as labels to your issue."
       options:
         - label: "code repository"
         - label: "video"
