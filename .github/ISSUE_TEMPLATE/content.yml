@@ -22,19 +22,15 @@ body:
 
   - type: markdown
     attributes:
-      value: "## Thanks for taking the time to contribute content!"
-
-  - type: markdown
-    attributes:
       value: |
-        We have pre-assigned labels for each of the content types. Please remove the labels that don't apply to the content you are creating.
+        ## Thanks for taking the time to contribute content!
+        We have pre-assigned labels for each of the content types. Please remove the labels that don't apply to the content you are creating. **Do NOT remove the `content` label please.**
         - Blog
         - Codelab
         - Code Repository
         - Community Post
         - Video
-        **Do NOT remove the `content` label please.**
-
+        
   - type: textarea
     id: extra_info
     attributes:
