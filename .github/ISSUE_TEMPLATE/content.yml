@@ -19,16 +19,20 @@ body:
       description: A description of the content you are submitting.
     validations:
       required: true
-
+      
+ - type: markdown
+  attributes:
+    value: "## Thanks for taking the time to contribute content!"
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to contribute content! We have pre-filled labels for each content type. Please remove the labels that don't apply to the content you are creating.
+        We have pre-assigned labels for each of the content types. Please remove the labels that don't apply to the content you are creating.
         - Blog
         - Codelab
         - Code Repository
         - Community Post
         - Video
+        ** Do NOT remove the `content` label please **
 
   - type: textarea
     id: extra_info
