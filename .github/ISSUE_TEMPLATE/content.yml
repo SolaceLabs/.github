@@ -14,7 +14,7 @@ body:
         - label: "Blog"
         - label: "Codelab"
         - label: "Community Post"
-- type: textarea
+  - type: textarea
     id: description
     attributes:
       label: Content Description
@@ -22,7 +22,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: description
+    id: extra_info
     attributes:
       label: Extra Information
       description: Anything else we should know?
