@@ -1,6 +1,7 @@
 <div align="center">
-  [![Solace logo - Powering real-time Event-Driven Enterprises.](/assets/Solace_Logo_Green.png)](https://www.solace.com)
+  <a href="https://www.solace.com">![Solace logo - Powering real-time Event-Driven Enterprises.](/assets/Solace_Logo_Green.png)</a>
 </div>
+
 <div align="center">
 
   <a href="https://www.solace.com">![Website](https://img.shields.io/badge/Website-solace.com-00C895.svg)</a>
