@@ -17,7 +17,7 @@
 
 ## Welcome to the SolaceLabs Github Organization! 
 
-SolaceLabs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace PubSub+ products.
+SolaceLabs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace products.
 
 
 **To get started:**
